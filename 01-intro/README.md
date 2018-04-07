@@ -2,6 +2,8 @@ Every lesson includes additional materials: illustrations, recommended articles 
 
 These first lessons don't have many links yet, but we're gradually going deeper and deeper, so expect more stuff as you follow along.
 
+![](assets/image.jpg)
+
 ### Lesson notes
 
 - Computer accepts code and performs actions.
